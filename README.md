@@ -1,4 +1,4 @@
-### Oii, Me chamo Tainá Santana 👋
+### Oii, Me chamo Tainá Santana e sou desenvolvedora front-end 👋
 
 <div align="center">
   <a href="https://github.com/taina-santana">
